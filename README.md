@@ -2,7 +2,7 @@
 
 A lightweight **barcode and QR code generation API** powered by FastAPI. Generate barcodes in Code128, Code39, EAN-13, UPC-A, ISBN, and more — plus QR codes — all from a single HTTP endpoint. Deploy on Railway in one click — no Dockerfile, no database, no external dependencies.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/new/template?templateUrl=https://github.com/INAPP-Mobile/railway-barcode-api)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/template/railway-barcode-api)
 
 ## Features
 
@@ -84,7 +84,7 @@ pytest tests/ -v
 
 ## Deploy to Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/new/template?templateUrl=https://github.com/INAPP-Mobile/railway-barcode-api)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/template/railway-barcode-api)
 
 Click the button above, or follow these steps:
 1. Fork/push this repo to your GitHub
